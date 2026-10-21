@@ -1,0 +1,18 @@
+# Binaries and build output
+/hnswgo
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+
+# Saved indexes and benchmark scratch
+*.hnsw
+*.idx
+*.prof
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
